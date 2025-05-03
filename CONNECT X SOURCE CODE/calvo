@@ -1,0 +1,36 @@
+#include<stdio.h>
+int main(){
+    int FN;
+    printf("Enter the number of floors:");
+    scanf("%d", &FN);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
